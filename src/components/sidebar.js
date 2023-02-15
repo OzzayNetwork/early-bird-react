@@ -45,7 +45,7 @@ const Sidebar=()=>{
                       
                       <ul className="metismenu list-unstyled" id="side-menu">
 
-                        <div className="px-3 pt-3 side-card">
+                        <div className="px-3 pt-3 side-card d-none">
                             <div className="card bg-primary bg-primary-blink blink-card-bg blink-card-bg2 mx-0 mx-sm-3 rad-sm-8px overflow-hidden">
                                 <div className="card-body blink-car rad-sm-8px">
                                     <div className="d-flex align-content-center align-items-center">
@@ -58,10 +58,10 @@ const Sidebar=()=>{
                                 </div>
                             </div>
                         </div>
-                          <li className="side-bar-button d-none" >
-                              <a href="#" className="waves-effect btn btn-light btn-rounded text-left write-msg-btn" data-bs-toggle="modal" data-bs-target="#walletTopUp">
+                          <li className="side-bar-button" >
+                              <a href="#" className="waves-effect btn btn-light btn-rounded text-left write-msg-btn mb-4" data-bs-toggle="modal" data-bs-target="#walletTopUp">
                                   <i className=""><img src="assets/images/plus-icon.svg" alt=""/></i>
-                                  <span className="text-capitalize">Top up account</span>
+                                  <span className="text-capitalize">Compose</span>
                               </a>
                           </li>
                           

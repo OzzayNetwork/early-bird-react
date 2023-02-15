@@ -144,7 +144,7 @@
             
             body[data-sidebar=dark] .mm-active .active {
                 color: #ffffff!important;
-                border-right-color: #FE5E37 !important;
+                border-right-color: #208edf !important;
                 background: #222222;
             }
             
@@ -199,7 +199,7 @@
             }
             
             .auth-logo .auth-logo-dark {
-                height: 45px;
+                height: 65px;
             }
             
             .font-28 {
@@ -889,7 +889,7 @@
                 width: 82px;
             }
             .logo-lg img{
-                width: 95px;
+                width: 195px;
             }
             
             table.logs-table tr td:last-child {
@@ -1205,14 +1205,14 @@
             /* primary button */
             .btn-primary {
                 color: #fff;
-                background-color: #ec5b0e !important;
-                border-color: #ec5b0e !important;
+                background-color: #556ee6 !important;
+                border-color: #556ee6 !important;
             }
 
             .btn-primary:hover {
                 color: #fff;
-                background-color: #f57611 !important;
-                border-color: #f57611 !important;
+                background-color: #2e52e0 !important;
+                border-color: #2e52e0 !important;
             }
             .font-30px{
                 font-size: 30px !important;
@@ -1243,11 +1243,11 @@
                 padding-bottom:0px !important;
             }
             #bottom-nav a.active i{
-                color: #ec5b0e !important;
+                color: #556ee6 !important;
             } 
 
             #bottom-nav a.active{
-                border-top: 4px solid #ec5b0e !important;
+                border-top: 4px solid #556ee6 !important;
             } 
             .border-bottom-1px{
                 border-bottom: 1px solid #c1c3cc54;
@@ -1442,10 +1442,10 @@
                 right: auto !important;
             }
             .bg-primary-blink{
-                background-color: #ec5b0e !important;
+                background-color: #556ee6 !important;
             }
             .text-blink-primary{
-                color: #ec5b0e !important;
+                color: #556ee6 !important;
             }
             .expenditure-card{
                 height: calc(100% - 23px);
@@ -1538,7 +1538,7 @@
                   }
 
                   .acount-type a:hover, .acount-type a.active{
-                    background-color: #ec5b0e;
+                    background-color: #556ee6;
                     position: relative;
                     background-image: linear-gradient(to right, #ee6b20c4, #f9000085);
                     color: white;

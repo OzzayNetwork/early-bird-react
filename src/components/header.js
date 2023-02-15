@@ -143,7 +143,7 @@ const Header=()=>{
                 </span>
                 <span className="logo-lg">
                   <img
-                    src="assets/images/logo-files/blink-white.svg"
+                    src="assets/images/logo-files/color-log0.svg"
                     alt=""
                     height="50"
                   />
